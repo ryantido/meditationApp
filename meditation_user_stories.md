@@ -156,3 +156,40 @@ Un message d’erreur est affiché pour des identifiants incorrects.
 2. Fournir une option pour supprimer un rappel en cliquant sur le bouton rouge “Supprimer” à côté de celui-ci.
 
 **Story Points:** 50
+
+
+# Share exercices
+
+**Title:** En tant qu’utilisateur, je veux facilement partager des exercices recommandés avec des amis ou de la famille, afin de pouvoir aider les autres à découvrir des activités utiles.
+
+**Acceptance Criteria:**
+
+1. Fournir un bouton/icône de partage clair sur la page de détails de l’exercice pour un partage facile.
+2. Permettre aux utilisateurs de partager des exercices via plusieurs plateformes (par exemple, les réseaux sociaux, l’e-mail ou les applications de messagerie).
+
+**Story Points:** 15
+
+
+# Sign-out
+
+**Title:** En tant qu’utilisateur, je souhaite un bouton de déconnexion clair et visible, afin de pouvoir facilement me déconnecter de mon compte lorsque j’ai fini d’utiliser l’application.
+
+**Acceptance Criteria:**
+
+1. Afficher un bouton “Déconnexion” clair et visible dans l’application.
+2. En appuyant sur le bouton, l’utilisateur est déconnecté et redirigé vers la page de connexion.
+3. Les données de session de l’utilisateur sont effacées lors de la déconnexion pour garantir un accès sécurisé.
+
+**Story Points:** 10
+
+# Edit settings
+
+**Title:** En tant qu’utilisateur, je veux basculer entre les thèmes clair et sombre, afin de réduire la fatigue oculaire et de personnaliser l’expérience visuelle de l’application.
+
+**Acceptance Criteria:**
+
+1. Fournir un commutateur ou un bouton “Thème” dans la section des paramètres pour les options de mode clair et sombre.
+2. Permettre à l’utilisateur de passer facilement du mode clair au mode sombre.
+3. Le thème doit changer immédiatement sans avoir besoin de rafraîchir ou de redémarrer l’application.
+
+**Story Points:** 25
