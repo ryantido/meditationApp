@@ -121,3 +121,38 @@ Un message d’erreur est affiché pour des identifiants incorrects.
 3. La liste des Favoris reste organisée pour une navigation facile et un accès rapide.
 
 **Story Points:** 65
+
+
+# Daily reminders
+
+**Title:** En tant qu’utilisateur, je veux voir le calendrier du mois en cours et naviguer entre les mois, afin de pouvoir facilement sélectionner des dates pour des rappels.
+
+**Acceptance Criteria:**
+
+1. Afficher le mois en cours avec tous les jours visibles.
+2. Fournir des flèches de navigation pour passer d’un mois à l’autre.
+
+
+**Title:** En tant qu’utilisateur, je veux sélectionner une date et une heure pour un rappel, afin de pouvoir le programmer correctement.
+
+**Acceptance Criteria:**
+
+1. Afficher un texte par défaut “Date Sélectionnée : Aucune” et “Heure Sélectionnée : 20:44” pour indiquer qu'aucune date n'a été sélectionnée mais qu'une heure est choisie.
+2. Permettre aux utilisateurs de sélectionner une heure et une date spécifiques.
+
+
+**Title:** En tant qu’utilisateur, je veux ajouter un rappel après avoir sélectionné une heure, afin de pouvoir le programmer pour une date et une heure futures.
+
+**Acceptance Criteria:**
+
+1. Après avoir sélectionné une heure, les utilisateurs peuvent cliquer sur le bouton “Ajouter un Rappel” pour programmer le rappel.
+
+
+**Title:** En tant qu’utilisateur, je veux voir une liste de tous mes rappels, afin de pouvoir les gérer facilement.
+
+**Acceptance Criteria:**
+
+1. Afficher une liste de tous les rappels avec la date et l’heure sélectionnées.
+2. Fournir une option pour supprimer un rappel en cliquant sur le bouton rouge “Supprimer” à côté de celui-ci.
+
+**Story Points:** 50
