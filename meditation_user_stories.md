@@ -91,3 +91,33 @@ Un message d’erreur est affiché pour des identifiants incorrects.
 
 1. Afficher une icône de retour et une icône de partage en haut de la page pour une navigation facile.
 
+
+# Favorite items
+
+**Title:** En tant qu’utilisateur, je veux ajouter un élément à mes Favoris, afin de pouvoir sauvegarder les activités ou articles que j’aime pour un accès rapide plus tard.
+
+**Acceptance Criteria:**
+
+1. Une icône en forme de cœur avec le texte “Ajouter aux Favoris” est affichée à côté de chaque élément.
+2. Le cœur en contour indique que l’élément n’est pas dans les Favoris.
+3. Taper sur le bouton ajoute l’élément à la liste des Favoris, met à jour le texte du bouton en “Retirer des Favoris” et change l’icône du cœur en remplie.
+
+
+**Title:** En tant qu’utilisateur, je veux retirer un élément de mes Favoris, afin de pouvoir gérer mon contenu sauvegardé.
+
+**Acceptance Criteria:**
+
+1. Le bouton “Retirer des Favoris” avec un cœur rempli est affiché pour les éléments déjà dans les Favoris.
+2. Taper sur le bouton retire l’élément de la liste des Favoris et rétablit l’icône du cœur en contour.
+3. Les utilisateurs peuvent ajouter ou retirer des éléments à tout moment, et le texte du bouton se met à jour en conséquence.
+
+
+**Title:** En tant qu’utilisateur, je veux un écran “Mes Favoris”, afin de pouvoir voir et gérer tous mes éléments sauvegardés en un seul endroit.
+
+**Acceptance Criteria:**
+
+1. L’écran “Mes Favoris” affiche une liste d’éléments sauvegardés avec leur titre, catégorie et durée.
+2. Les utilisateurs peuvent taper sur n’importe quel élément pour voir les détails ou commencer l’activité.
+3. La liste des Favoris reste organisée pour une navigation facile et un accès rapide.
+
+**Story Points:** 65
